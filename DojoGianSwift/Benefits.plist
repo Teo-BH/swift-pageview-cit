@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>use com segurança</string>
+		<key>description</key>
+		<string>Garanta segurança do lorem ipsum</string>
+		<key>image</key>
+		<string>security.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Mais praticidade</string>
+		<key>description</key>
+		<string>Consulte os planos do lorem ipsum</string>
+		<key>image</key>
+		<string>praticidade.png</string>
+	</dict>
+</array>
+</plist>
